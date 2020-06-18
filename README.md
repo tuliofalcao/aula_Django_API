@@ -42,6 +42,16 @@ python manage.py startapp nomedaaplicação
 python manage.py makemigrations
 python manage.py migrate
 
+## Criar superusuário
+
+python manage.py createsuperuser
+
+## instalar o Django Rest Framework
+
+https://www.django-rest-framework.org/
+
+
+
 
 
 
